@@ -23,9 +23,9 @@ What you need to do to reproduce the analysis or re-use the code on your local m
 Software or packages that needs to be installed and and how to install them.
 
 For example:
-These scripts were written in R version (to be added) and RStudio Version 1.1.383. 
-The following R packages (available on CRAN) are needed: 
-* [**tidyverse**](https://www.tidyverse.org/)
+These scripts were written in Stata 17.0 
+The following user written packages (available on http://www.stata.com) are needed: 
+* [**concord**](http://www.stata-journal.com/software/sj10-4/)
 
 ### Getting started
 
